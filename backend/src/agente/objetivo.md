@@ -23,4 +23,4 @@ breve, exacta y con fuentes, para que un editor humano lo apruebe antes de publi
 
 ## Lo que el equipo editorial quiere cambiar
 
-(Este bloque lo escribe el equipo. Ejemplos: Priorizar la brecha entre mujeres y hombres.)
+(Priorizar la brecha entre mujeres y hombres.)
